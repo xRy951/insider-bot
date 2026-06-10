@@ -67,7 +67,8 @@ const SP500_TICKERS = [
   "UBER","UDR","ULTA","UNP","UAL","UPS","URI","UNH","UHS","VLO","VTR","VRSN",
   "VRSK","VZ","VRTX","VTRS","VLTO","VMC","WRB","WAB","WBA","WMT","WBD","WM",
   "WAT","WEC","WFC","WELL","WST","WDC","WRK","WY","WHR","WMB","WTW","GWW",
-  "WYNN","XEL","XYL","YUM","ZBRA","ZBH","ZTS"
+  "WYNN","XEL","XYL","YUM","ZBRA","ZBH","ZTS", "LASR", "PL", "RKLB", "ASTS",
+  "RDW", "LUNR", "TGTX", "CLOV", "VKTX", "CAPR"
 ];
 
 const client = new Client({ intents: [GatewayIntentBits.Guilds] });
